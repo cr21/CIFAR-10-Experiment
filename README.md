@@ -1,7 +1,7 @@
 # CIFAR-10-Experiment
 Train CIFAR 10- get 85 % accuracy 
 
-
+```
 ---------------------------------------------------------------
         Layer (type)               Output Shape         Param #
 ================================================================
@@ -104,3 +104,4 @@ Forward/backward pass size (MB): 21.25
 Params size (MB): 0.72
 Estimated Total Size (MB): 21.98
 ----------------------------------------------------------------
+```
