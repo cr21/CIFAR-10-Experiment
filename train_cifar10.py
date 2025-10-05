@@ -285,7 +285,7 @@ def main():
     device = torch.device("cuda" if use_cuda else "cpu")
     print(device)
     summary(model, input_size=(3, 32, 32))
-    1/0
+    
     # print params and receptive field
     n_params = count_params(model)
     print(f"Model params: {n_params:,}")
